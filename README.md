@@ -1,4 +1,4 @@
-El backend de la aplicacion hecho con strapi repo: https://github.com/useralberto/backAppBRaices
+El backend de la aplicación esta hecho con strapi repo: https://github.com/useralberto/backAppBRaices
 
 de igual forma dejo el readme de next.js, para mas informacióin.
 
